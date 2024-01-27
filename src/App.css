@@ -20,22 +20,21 @@ p{
   margin: 0;
 }
 
-:root{
-    --primary: #5e3bee;
-    --heading-color: #282938;
-    --bg-shade: #f4f4f4;  
-    -gitgub: #e62872;
-    --linkedin: #0077b5;    
-    --darkblue: #1c1e53;
-    --black: #000000;
-    --white: #ffffff;   
+:root {
+  --primary: #5e3bee;
+  --heading-color: #282938;
+  --bg-shade: #f5fcff;
+  --github: #e62872;
+  --darkblue: #1c1e53;
+  --black: #000000;
+  --white: #ffffff;  
 
 }
 
 .btn {
-  font-family: 'Roboto', sans-serif;  
+  font-family: "Roboto";
   display: inline-block;
-  padding: 14px 28px;
+  padding: 14px 32px;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -55,18 +54,20 @@ p{
   -o-transition: background-color 0.5s;
 }
 
-.btn-outline-primary{
-    color: var(--primary);
-    background-color: var(--white);
-    border: 1px solid var(--primary);
-
+.btn-outline-primary {
+  color: var(--primary);
+  background-color: var(--white);
+  border: 1px solid var(--primary);
 }
-
-.btn-outline-primary:hover{
-    color: var(--white);
-    background-color: var(--primary);
-    border: 1px solid var(--primary);
-}       
+.btn-outline-primary:hover {
+  color: var(--white);
+  background-color: var(--primary);
+}
+.btn-primary {
+  color: var(--white);
+  background-color: var(--primary);
+  border: 1px solid var(--primary);
+}
 
 .btn-github{
   color: var(--white);
