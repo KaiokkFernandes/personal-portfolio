@@ -1,4 +1,5 @@
 import HeroSection from "../HeroSection";   
+import MySkills from "../MySkilss";
 import Navbar from "../NavBar";
 
 export default function Home(){
@@ -6,6 +7,7 @@ export default function Home(){
         <>
          <Navbar /> 
           <HeroSection />
+          <MySkills />
         </>
     );  
 }
