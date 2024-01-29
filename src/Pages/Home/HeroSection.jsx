@@ -10,8 +10,8 @@ export default function HeroSection() {
               Developer
             </h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              <br /> Dolorum, quas. Amet soluta assumenda cum?
+             Eu sou o Kaio, um entusiasta da tecnologia e desenvolvedor web especializado em React e .NET Web API. Com habilidades afiadas em criar experiências de usuário cativantes e soluções back-end eficientes, estou sempre na vanguarda da inovação tecnológica.
+              <br />  Minha paixão? Transformar ideias complexas em realidades digitais elegantes. Vamos inovar juntos!
             </p>
           </div>
           <button className="btn btn-primary">Get In Touch</button>
