@@ -100,7 +100,7 @@ function Navbar() {
               to="testimonial"
               className="navbar--content"
             >
-              Testimonials
+             
             </Link>
           </li>
         </ul>
