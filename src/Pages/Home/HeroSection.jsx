@@ -14,7 +14,7 @@ export default function HeroSection() {
               <br />  Minha paixão? Transformar ideias complexas em realidades digitais elegantes. Vamos inovar juntos!
             </p>
           </div>
-          <button className="btn btn-primary">Get In Touch</button>
+          
         </div>
         <div className="hero--section--img">
           <img src="./img/foto1.PNG" alt="Hero Section" />

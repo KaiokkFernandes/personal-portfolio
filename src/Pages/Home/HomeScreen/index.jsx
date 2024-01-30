@@ -3,7 +3,7 @@ import HeroSection from "../HeroSection";
 import MyPortfolio from "../MyPortifolio";
 import MySkills from "../MySkilss";
 import Navbar from "../NavBar";
-
+import ContactMe from "../ContactMe";
 export default function Home(){
     return (
         <>
@@ -12,6 +12,7 @@ export default function Home(){
           <MySkills />
           <AboutMe /> 
           <MyPortfolio/>  
+            <ContactMe />    
         </>
     );  
 }
