@@ -9,15 +9,10 @@ export default function AboutMe() {
             <p className="section--title"></p>
             <h1 className="skills-section--heading">Sobre mim</h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
+            Sou um aluno de graduação no curso de Sistemas de Informação na Universidade Federal de Santa Maria. Meu entusiasmo pela tecnologia despertou ainda na escola fundamental, quando tive meu primeiro contato com um computador. Ao jogar Minecraft, fiquei fascinado não apenas pelo jogo em si, mas principalmente por entender o que acontecia por trás das cenas. Eu estava determinado a descobrir como ele foi criado. Essa experiência foi como uma revelação, uma luz que se acendeu em minha mente, clareando um caminho que até então estava obscuro. 
             </p>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+            Desde aquele momento, dedico-me aos estudos com o objetivo de satisfazer a curiosidade daquele jovem Kaio e explorar esse mundo incrivel que é a tecnologia.
             </p>
           </div>
         </div>
