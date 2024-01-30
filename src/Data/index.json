@@ -31,21 +31,24 @@
         "src": "./img/projeto1.png",
         "title": "Game GeoGuessr",
         "description": "Este projeto consiste em um jogo desenvolvido utilizando Java e a biblioteca libGDX, proporcionando-me uma excelente oportunidade para aprimorar minhas habilidades em programação orientada a objetos.",
-        "link": "View In Github"
+        "link": "View In Github",
+        "githubUrl": "https://github.com/elc117/game-2023b-jbguesser"
       },
       {
         "id": "2",
         "src": "./img/projeto2.png",
         "title": "BlazorShop",
         "description": "Este projeto é um sistema de comércio eletrônico implementado com Blazor WebAssembly e .NET 8, utilizando o SQL Server como banco de dados. A escolha dessas tecnologias modernas visa oferecer uma experiência de usuário ágil e segura, ao mesmo tempo em que garante a eficiência e a robustez do sistema.",
-        "link": "View In Github"
+        "link": "View In Github",
+        "githubUrl": "https://github.com/KaiokkFernandes/BlazorShopWeb"
       },
       {
         "id": "3",
         "src": "./img/projeto3.png",
         "title": "Conect Eventos",
         "description": "Este projeto consiste em uma plataforma desenvolvida com Angular e .NET, destinada ao cadastro e visualização de eventos disponíveis para palestrantes. Utilizamos o SQL Server como sistema de gerenciamento de banco de dados",
-        "link": "View In Github"
+        "link": "View In Github",
+        "githubUrl": "https://github.com/KaiokkFernandes/DevEventos"
       }
     ],
     "testimonial": [
