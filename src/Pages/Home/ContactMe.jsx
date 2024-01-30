@@ -2,16 +2,16 @@ export default function ContactMe() {
     return (
       <section id="Contact" className="contact--section">
         <div>
-          <p className="sub--title">Get In Touch</p>
-          <h2>Contact Me</h2>
+         
+          <h2>Contate-me</h2>
           <p className="text-lg">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
+             Gostou do meu trabalho ? Vamos conversar!
           </p>
         </div>
         <form className="contact--form--container">
           <div className="container">
             <label htmlFor="first-name" className="contact--label">
-              <span className="text-md">First Name</span>
+              <span className="text-md">Nome</span>
               <input
                 type="text"
                 className="contact--input text-md"
@@ -21,7 +21,7 @@ export default function ContactMe() {
               />
             </label>
             <label htmlFor="last-name" className="contact--label">
-              <span className="text-md">Last Name</span>
+              <span className="text-md">Sobrenome</span>
               <input
                 type="text"
                 className="contact--input text-md"
@@ -41,7 +41,7 @@ export default function ContactMe() {
               />
             </label>
             <label htmlFor="phone-number" className="contact--label">
-              <span className="text-md">phone-number</span>
+              <span className="text-md">Numero de Telefone</span>
               <input
                 type="number"
                 className="contact--input text-md"
@@ -52,7 +52,7 @@ export default function ContactMe() {
             </label>
           </div>
           <label htmlFor="choode-topic" className="contact--label">
-            <span className="text-md">Choose a topic</span>
+            <span className="text-md">Escolha um tópico</span>
             <select id="choose-topic" className="contact--input text-md">
               <option>Select One...</option>
               <option>Item 1</option>
@@ -61,7 +61,7 @@ export default function ContactMe() {
             </select>
           </label>
           <label htmlFor="message" className="contact--label">
-            <span className="text-md">Message</span>
+            <span className="text-md">Mensagem</span>
             <textarea
               className="contact--input text-md"
               id="message"
@@ -74,7 +74,7 @@ export default function ContactMe() {
             <span className="text-sm">I accept the terms</span>
           </label>
           <div>
-            <button className="btn btn-primary contact--form--btn">Submit</button>
+            <button className="btn btn-primary contact--form--btn">Enviar</button>
           </div>
         </form>
       </section>

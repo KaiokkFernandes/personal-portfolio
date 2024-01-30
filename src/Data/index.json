@@ -4,25 +4,25 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Experiência em desenvolvimento de projetos utilizando linguagens de programação e marcação como HTML, CSS e JavaScript, além de frameworks modernos como React e Angular."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Desenvolvi minha experiência profissional trabalhando em projetos utilizando C# com .NET Framework e Entity Framework. me envolvi em projetos baseados em Java, Spring Boot e integrando com bancos de dados SQL Server e SQLite."
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
         "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Possuo habilidades sólidas no uso de ferramentas de design, especialmente em Figma e InVision. Além disso, tenho experiência em desenvolvimento de projetos utilizando Webflow."
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
         "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Conhecimento dos conceitos de containers e divs, design responsivo, breakpoints, uso de Flexbox e Grid, CMS, fundamentos de SEO, e criação e personalização de formulários. "
       }
     ],
     "portfolio": [
