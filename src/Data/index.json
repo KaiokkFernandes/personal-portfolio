@@ -4,13 +4,13 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Experiência em desenvolvimento de projetos utilizando linguagens de programação e marcação como HTML, CSS e JavaScript, além de frameworks modernos como React e Angular."
+        "description": "Experiência no desenvolvimento de projetos Front-End utilizando JavaScript e TypeScript, com foco em frameworks modernos como React.js e Nextjs. Desenvolvimento de interfaces dinâmicas e interativas, consumo de APIs RESTful e integração com bibliotecas e ferramentas do ecossistema Front-End."
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
         "title": "Back-End",
-        "description": "Desenvolvi minha experiência profissional trabalhando em projetos utilizando C# com .NET Framework e Entity Framework. me envolvi em projetos baseados em Java, Spring Boot e integrando com bancos de dados SQL Server e SQLite."
+        "description": "Experiência no desenvolvimento de aplicações Back-End utilizando Node.js e ASP.NET Core, aplicando Clean Architecture para construção de APIs RESTful escaláveis. Experiência com bancos de dados MySQL e Postgresql, testes automatizados com Jest e deployment de aplicações na AWS."
       },
       {
         "id": "3",
@@ -37,44 +37,32 @@
       {
         "id": "2",
         "src": "./img/projeto2.png",
-        "title": "BlazorShop",
-        "description": "Este projeto é um sistema de comércio eletrônico implementado com Blazor WebAssembly e .NET 8, utilizando o SQL Server como banco de dados. A escolha dessas tecnologias modernas visa oferecer uma experiência de usuário ágil e segura, ao mesmo tempo em que garante a eficiência e a robustez do sistema.",
+        "title": "PizzaExpress",
+        "description": "Este projeto é um sistema de pizzaria desenvolvido com Node.js no back-end e Next.js no front-end, utilizando Prisma para modelagem e interação com um banco de dados PostgreSQL. A aplicação conta com autenticação e autorização seguras via JWT, além de hashing de senhas para proteção dos dados dos usuários. As principais funcionalidades incluem gerenciamento de categorias e produtos, permitindo a criação e listagem de pizzas e seus respectivos ingredientes. O sistema também possibilita a gestão de pedidos, desde a criação e atualização até a remoção e finalização, garantindo um fluxo eficiente para o atendimento da pizzaria. Para manipulação de arquivos, é utilizado Multer, enquanto o Express é responsável pela construção das APIs RESTful.",
         "link": "View In Github",
-        "githubUrl": "https://github.com/KaiokkFernandes/BlazorShopWeb"
+        "githubUrl": "https://github.com/KaiokkFernandes/PizzaExpress"
       },
       {
         "id": "3",
         "src": "./img/projeto3.png",
-        "title": "Conect Eventos",
-        "description": "Este projeto consiste em uma plataforma desenvolvida com Angular e .NET, destinada ao cadastro e visualização de eventos disponíveis para palestrantes. Utilizamos o SQL Server como sistema de gerenciamento de banco de dados",
+        "title": "FlavorMatch", 
+        "description": "Um aplicativo de matching gastronômico desenvolvido com React Native no front-end e Node.js no back-end. A plataforma permite que usuários criem perfis personalizados, selecionem suas preferências culinárias e sejam conectados com outras pessoas que compartilham os mesmos gostos. O sistema automatiza a escolha de restaurantes compatíveis com as preferências dos participantes e facilita o agendamento dos encontros. Além disso, a aplicação conta com um sistema de avaliações para aprimorar futuras recomendações. Com uma arquitetura escalável, FlavorMatch combina APIs eficientes para gerenciamento de usuários, processamento de dados e integração com serviços de geolocalização para a seleção de restaurantes",
         "link": "View In Github",
-        "githubUrl": "https://github.com/KaiokkFernandes/DevEventos"
+        "githubUrl": "https://github.com/KaiokkFernandes/FlavorMatch"
       }
     ],
     "testimonial": [
       {
         "id": "1",
         "count": "5",
-        "src": "./img/avatar-image.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Dianne Russel",
-        "author_designation": "Starbucks"
+        "src": "./img/fisma.png",
+        "description": "10 meses de experiência trabalhando em projetos com ASP.NET Core MVC, desenvolvendo no back-end e criando interfaces utilizando a tecnologia Blazor do .NET. Experiência em fluxo de trabalho Scrum, além de criação de documentação e testes automatizados."
       },
       {
         "id": "2",
         "count": "5",
-        "src": "./img/avatar-image-1.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kristin Watson",
-        "author_designation": "Louis Vuitton"
-      },
-      {
-        "id": "3",
-        "count": "5",
-        "src": "./img/avatar-image-2.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kathryn Murphy",
-        "author_designation": "McDonald's"
+        "src": "./img/forte.png",
+        "description": "1 ano de experiência em projetos com Node.js no back-end e React.js no front-end, desenvolvendo uma plataforma integrada com Firewalls e Switches. Utilização da Clean Architecture para implementar funcionalidades como criação de VPN Client, VPN Site-to-Site, regras de Firewall e NAT. Desenvolvimento de soluções para otimizar o gerenciamento de dispositivos Mikrotik. Experiência na criação de testes automatizados com Jest, além de deployment e integração com AWS em projetos reais."
       }
     ]
-  }
+  } 

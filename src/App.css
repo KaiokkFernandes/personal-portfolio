@@ -756,4 +756,66 @@ input[type="checkbox"] {
   }
 }
 
+.testimonial--section {
+  padding: 100px 85.33px;
+  background: var(--bg-shade);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.testimonial--cards {
+  display: grid;
+  gap: 150px; /* Aumentando ainda mais o espaço entre os cards */
+  width: 80%; /* Deixa os cards ainda mais largos */
+  max-width: 1600px; /* Ajusta a largura máxima dos cards */
+  grid-template-columns: repeat(2, 1fr); /* Mantém dois cards por linha */
+  justify-content: center;
+}
+
+.testimonial--card {
+  background: #fff;
+  padding: 60px; /* Aumentando o espaço interno do card */
+  border-radius: 12px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%; /* Faz com que os cards ocupem 100% da largura da coluna */
+  min-height: 550px; /* Aumentando a altura do card */
+  transition: transform 0.3s ease;
+}
+
+.testimonial--card:hover {
+  transform: translateY(-5px);
+}
+
+.testimonial--img {
+  width: 120px; /* Aumentando a imagem */
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 24px;
+}
+
+.testimonial--description {
+  font-size: 24px; /* Aumentando o tamanho da fonte */
+  line-height: 1.8;
+  color: var(--darkblue);
+  margin-bottom: 20px;
+}
+
+.testimonial--author {
+  font-size: 26px; /* Aumentando o nome do autor */
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.testimonial--designation {
+  font-size: 22px; /* Aumentando o título do autor */
+  color: var(--primary);
+}
+
+
 /* Responsive Screens Ends*/

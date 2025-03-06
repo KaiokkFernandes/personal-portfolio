@@ -9,10 +9,11 @@ export default function AboutMe() {
             <p className="section--title"></p>
             <h1 className="skills-section--heading">Sobre mim</h1>
             <p className="hero--section-description">
-            Sou um aluno de graduação no curso de Sistemas de Informação na Universidade Federal de Santa Maria. Meu entusiasmo pela tecnologia despertou ainda no fundamental, quando tive meu primeiro contato com um computador. Ao jogar Final Fantasy VII, fiquei fascinado não apenas pelo jogo em si, mas principalmente por querer entender o que acontecia por trás das cenas. Eu estava determinado a descobrir como aquilo foi criado. Essa experiência foi como uma revelação, uma luz que se acendeu em minha mente, clareando um caminho que até então estava obscuro. 
-            </p>
-            <p className="hero--section-description">
-            Desde aquele momento, dedico-me aos estudos com o objetivo de satisfazer a curiosidade daquele jovem Kaio e explorar esse mundo incrivel que é a tecnologia.
+            Sou estudante de Sistemas de Informação na Universidade Federal de Santa Maria, atualmente no sexto semestre. Nascido em Belém do Pará, sempre tive um grande fascínio por computação e redes de computadores, áreas que me motivam a explorar novas tecnologias e soluções inovadoras.
+
+Além da tecnologia, gosto de ler no meu tempo livre, especialmente livros de ficção científica, sendo Jogador Nº 1 e Duna meus favoritos. Também me aventuro ocasionalmente em trilhas e acampamentos com amigos, apreciando momentos ao ar livre.
+
+Sou uma pessoa comunicativa e de fácil amizade, sempre aberto a novas experiências e trocas de conhecimento. Busco constantemente o aprendizado e aprimoramento, tanto no âmbito profissional quanto pessoal, sempre motivado pelo desejo de inovar e evoluir.
             </p>
           </div>
         </div>
